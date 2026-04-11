@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Oxnard, California, a growing city of 202k+. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Oxnard, California, US",
+  "export_job_id": "7b4eb298-4e56-44cd-a233-ea7edbf8f31c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 236020,
+  "location_name": "Oxnard",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-oxnard-california-us-sample-236020",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/236020/beamstation_236020_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.63,
+  "sample_records": 18,
+  "sample_sha256": "e2eace8751602313c095a375f822e6c3395a5583207c9fdff06a2d486d056d0d",
+  "sample_size_bytes": 86267,
+  "total_records": 187,
+  "updated_at": "2026-04-07T11:19:39.020896+00:00"
+}
