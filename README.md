@@ -1,6 +1,6 @@
 # All Restaurants in Oxnard, California, US
 
-> Free BeamStation sample export with 18 rows and masked direct-contact fields.
+> Free BeamStation sample export with 19 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `236020` |
 | Location | Oxnard |
 | Category | Restaurants |
-| Full dataset size | 187 records |
-| Free sample size | 18 records (9.63%) |
-| Last export | 2026-04-07T11:19:39.020896+00:00 |
+| Full dataset size | 190 records |
+| Free sample size | 19 records (10.0%) |
+| Last export | 2026-04-14T11:14:23.263621+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-oxnard-california-us-sample-236020/releases/download/sample-latest/beamstation_236020_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
