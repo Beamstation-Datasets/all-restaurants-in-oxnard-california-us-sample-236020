@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1e9c5597-e9f5-4fa6-9a7e-4cc9bc928a7a",
+  "export_job_id": "63185512-10c6-4ef5-91e2-dbfe47f96272",
   "id_short": 236020,
-  "published_at": "2026-04-17T07:43:41Z",
+  "published_at": "2026-04-21T19:13:00Z",
   "repo_name": "all-restaurants-in-oxnard-california-us-sample-236020",
   "sample_asset_name": "beamstation_236020_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/236020/beamstation_236020_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 19,
-  "sample_sha256": "998e9084243ce8b068b3d7dfb8d80f57289e03ad65c903e0800ee2fb18804033",
-  "sample_size_bytes": 61463,
-  "total_records": 190
+  "sample_records": 18,
+  "sample_sha256": "e333fb79e18721ed97c6cbadb1d920bcc958af63d482867dc63005604124ef4b",
+  "sample_size_bytes": 68455,
+  "total_records": 185
 }
